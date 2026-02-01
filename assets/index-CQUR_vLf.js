@@ -51845,7 +51845,7 @@ void main(void){
                           default: be(() => [
                             ne(
                               K,
-                              { label: "Hint" },
+                              { label: "Petunjuk" },
                               {
                                 default: be(() => [
                                   ne(
