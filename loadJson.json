@@ -26,7 +26,7 @@
   "EventInfos" : [
     {"BoneName": "sweat11", "Width": 1500, "Height": 800, "Animations":
     ["Talk_01_M","Talk_02_M","Talk_03_M","Talk_04_M","Talk_05_M","Talk_06_M"],
-	"AnimationIndex": 10, "TextIndex":  0, "ClickType" : "click", "EmptyAnimation": true},
+	"AnimationIndex": 10, "TextIndex":  0, "ClickType" : "pointerdown", "EmptyAnimation": true},
 
     {"BoneName": "front_hair_12", "Width": 800, "Height": 500, "Animations":
 	["Pat_01_M"], 
