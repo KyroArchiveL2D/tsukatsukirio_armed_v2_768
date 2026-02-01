@@ -1,0 +1,404 @@
+CH0331_home.png
+size: 4096,4096
+filter:Linear,Linear
+scale:0.76
+B_Hair
+bounds: 4,674,516,660
+offsets: 6,8,532,670
+rotate:270
+B_Hair_3
+bounds: 338,328,804,1154
+offsets: 10,28,1260,1182
+rotate:270
+B_Hair_3C
+bounds: 3108,372,326,984
+offsets: 798,8,1134,1064
+rotate:90
+B_Hair_4
+bounds: 80,4,934,1342
+offsets: 2,0,936,1344
+rotate:270
+B_Hair_5
+bounds: 2956,266,458,448
+offsets: 424,6,888,2086
+B_Hair_5C
+bounds: 772,908,454,1646
+offsets: 2,434,888,2086
+rotate:270
+B_Hair_6
+bounds: 1544,2016,1376,1920
+offsets: 0,0,2366,1934
+rotate:270
+B_L_Eyelash
+bounds: 3712,3976,104,60
+offsets: 12,12,130,84
+B_head
+bounds: 760,1824,642,926
+offsets: 8,2,650,934
+rotate:90
+B_head_acc
+bounds: 3910,2860,182,438
+offsets: 12,14,204,466
+Breast_L_1
+bounds: 1428,1092,800,472
+offsets: 8,12,812,490
+Breast_L_2
+bounds: 4,1140,568,410
+offsets: 10,12,592,452
+Breast_R_1
+bounds: 3302,3342,694,756
+offsets: 6,6,712,768
+rotate:90
+Breast_R_2
+bounds: 3014,596,580,556
+offsets: 38,62,628,630
+Breast_closed
+bounds: 3208,2198,884,984
+offsets: 8,10,898,1002
+Chest_1
+bounds: 1008,722,544,384
+offsets: 48,12,600,436
+Chest_2
+bounds: 1178,1202,284,246
+offsets: 12,180,600,436
+Eye_a1
+bounds: 2424,3942,92,94
+offsets: 12,12,118,118
+Eye_a2
+bounds: 1680,3702,66,66
+offsets: 12,14,92,92
+Eye_b1
+bounds: 1748,3718,66,94
+offsets: 10,10,88,114
+Eye_b2
+bounds: 4046,3970,44,66
+offsets: 12,12,66,88
+Eye_shadow_1
+bounds: 1456,3950,202,86
+offsets: 10,14,224,110
+Eye_shadow_2
+bounds: 1216,2760,206,116
+offsets: 10,10,226,136
+Eyebrow_1
+bounds: 3602,3094,248,164
+offsets: 10,12,266,184
+Eyebrow_2
+bounds: 4,3972,272,64
+offsets: 10,10,292,84
+Eyebrow_3
+bounds: 2694,3138,224,112
+offsets: 12,10,248,134
+F_R_Eyelash_close
+bounds: 846,3888,384,148
+offsets: 14,12,410,172
+F_R_Eyelash_down1
+bounds: 162,3964,178,72
+offsets: 18,18,212,108
+F_R_Eyelash_down2
+bounds: 2336,3384,152,54
+offsets: 18,20,186,92
+F_R_Eyelash_up1
+bounds: 2808,2972,388,164
+offsets: 18,16,422,200
+F_R_Eyelash_up2
+bounds: 3354,1268,336,204
+offsets: 16,18,368,240
+Hair_shadow
+bounds: 3818,2008,274,322
+offsets: 10,12,296,346
+Hair_shadow_2
+bounds: 3844,1570,248,344
+offsets: 10,12,270,370
+Hair_shadow_3
+bounds: 610,1472,234,382
+offsets: 10,10,256,402
+Hair_shadow_4
+bounds: 8,2846,290,412
+offsets: 10,12,308,432
+Hair_shadow_5
+bounds: 676,1890,208,430
+offsets: 12,10,232,452
+Hair_shadow_6
+bounds: 2840,252,346,726
+offsets: 10,12,368,748
+Head
+bounds: 676,1308,624,656
+offsets: 8,10,642,674
+rotate:180
+Head_jaw
+bounds: 2544,3776,490,260
+offsets: 14,10,516,312
+L_Arm
+bounds: 1500,526,288,488
+offsets: 10,12,310,510
+L_Arm_2
+bounds: 2674,1292,1084,480
+offsets: 8,8,1106,496
+rotate:180
+L_Arm_Shadow
+bounds: 3490,3210,586,298
+offsets: 8,2,608,310
+L_Arm_spare
+bounds: 788,2968,772,252
+offsets: 12,12,794,276
+L_Hand
+bounds: 1806,3728,234,308
+offsets: 12,12,258,332
+L_Hand_Finger_a1
+bounds: 3274,3696,80,140
+offsets: 10,8,98,162
+L_Hand_Finger_a2
+bounds: 3082,3750,62,92
+offsets: 12,12,86,116
+L_Hand_Finger_a3
+bounds: 2002,3776,64,102
+offsets: 12,10,86,124
+L_Hand_Finger_b1
+bounds: 2076,3306,92,124
+offsets: 14,12,116,148
+L_Hand_Finger_b2
+bounds: 3264,3936,80,100
+offsets: 10,10,104,118
+L_Hand_Finger_b3
+bounds: 1266,3856,72,88
+offsets: 10,10,92,110
+L_Hand_Finger_c1
+bounds: 3020,3768,82,136
+offsets: 14,12,108,162
+L_Hand_Finger_c2
+bounds: 4030,3730,62,76
+offsets: 12,12,88,98
+L_Hand_Finger_c3
+bounds: 3338,3692,60,72
+offsets: 10,14,80,98
+L_Hand_Finger_d1
+bounds: 3994,3792,98,116
+offsets: 14,12,124,140
+L_Hand_Finger_d2
+bounds: 2518,3954,84,82
+offsets: 12,12,110,106
+L_Hand_spare
+bounds: 3028,3758,264,278
+offsets: 12,12,288,300
+L_Hand_spare_1
+bounds: 10,3634,108,168
+offsets: 12,12,132,192
+L_Hand_spare_2
+bounds: 284,3144,156,156
+offsets: 12,12,180,180
+L_Hand_spare_3
+bounds: 688,2606,164,132
+offsets: 12,12,188,156
+L_Hand_spare_4
+bounds: 1530,3108,162,128
+offsets: 10,12,184,150
+L_leg_1
+bounds: 2058,3024,1430,1012
+offsets: 178,24,1612,1042
+rotate:180
+L_leg_2
+bounds: 2506,1706,1384,472
+offsets: 0,8,1384,484
+rotate:180
+Mouth_1
+bounds: 1990,3922,112,114
+offsets: 18,16,146,146
+Mouth_2
+bounds: 1668,3918,110,118
+offsets: 18,18,146,156
+Mouth_3
+bounds: 1172,3914,132,122
+offsets: 16,14,162,154
+Pelvis
+bounds: 1302,1356,764,812
+offsets: 6,20,778,844
+rotate:90
+R_Arm
+bounds: 2218,2356,986,1010
+offsets: 2,4,992,1014
+rotate:90
+R_Arm_2
+bounds: 1890,2518,584,888
+offsets: 12,10,606,904
+rotate:90
+R_Hand_add
+bounds: 3592,662,482,368
+offsets: 6,8,498,378
+R_leg
+bounds: 852,1902,1708,1034
+offsets: 0,56,1712,1096
+R_leg_2
+bounds: 4,3196,2130,840
+offsets: 2,0,2132,840
+Torso_0
+bounds: 3330,1014,644,762
+offsets: 808,4,1458,1114
+rotate:90
+Torso_0_1
+bounds: 4,2210,1068,1046
+offsets: 10,58,1458,1114
+Torso_1
+bounds: 4,1526,818,658
+offsets: 178,54,1010,734
+rotate:270
+Torso_2
+bounds: 2276,588,432,636
+offsets: 946,0,1384,930
+rotate:90
+Torso_3
+bounds: 2058,1260,680,564
+offsets: 768,12,1456,900
+blush
+bounds: 1174,2808,320,158
+offsets: 6,8,332,176
+blush_1
+bounds: 2410,930,522,420
+offsets: 8,12,542,440
+blush_2
+bounds: 532,926,520,418
+offsets: 10,10,542,440
+blush_close
+bounds: 2926,918,520,420
+offsets: 10,10,542,440
+breath_1
+bounds: 1466,2660,166,196
+offsets: 8,0,174,206
+breath_2
+bounds: 3426,3190,174,134
+offsets: 8,6,192,148
+breath_3
+bounds: 3014,2688,170,180
+breath_4
+bounds: 2136,3346,198,250
+ear
+bounds: 4,3804,240,178
+offsets: 10,12,260,200
+eye_lid
+bounds: 2328,2832,212,126
+offsets: 10,12,236,148
+eye_lid_2
+bounds: 3818,3892,240,144
+offsets: 12,12,264,170
+eye_smoky_1
+bounds: 2904,2860,252,126
+offsets: 10,10,272,148
+eye_smoky_2
+bounds: 400,3232,254,144
+offsets: 8,8,272,164
+eye_smoky_closed
+bounds: 3842,1908,250,124
+offsets: 12,10,276,146
+eye_white
+bounds: 3222,2336,190,140
+offsets: 8,8,206,156
+front_hair
+bounds: 1370,292,440,334
+offsets: 10,10,462,354
+front_hair_10
+bounds: 2602,128,304,470
+offsets: 10,12,326,492
+front_hair_11
+bounds: 2066,322,310,514
+offsets: 12,12,332,536
+front_hair_12
+bounds: 562,1372,214,512
+offsets: 12,10,236,530
+front_hair_13
+bounds: 488,494,714,1004
+offsets: 4,6,722,1018
+rotate:270
+front_hair_2
+bounds: 796,3092,298,140
+offsets: 18,20,332,178
+front_hair_3
+bounds: 2610,1428,376,246
+offsets: 12,12,396,270
+front_hair_4
+bounds: 1960,250,648,388
+offsets: 4,10,662,404
+front_hair_5
+bounds: 2248,230,446,412
+offsets: 12,12,472,438
+front_hair_6
+bounds: 2130,320,454,392
+offsets: 8,12,474,418
+front_hair_7
+bounds: 2370,206,360,420
+offsets: 10,10,382,440
+front_hair_8
+bounds: 2962,154,328,454
+offsets: 10,10,348,476
+front_hair_9
+bounds: 3262,418,374,440
+offsets: 10,10,402,462
+front_hair_base
+bounds: 1338,3740,468,296
+offsets: 8,6,486,306
+neck
+bounds: 1788,520,408,394
+offsets: 12,12,430,414
+sweat
+bounds: 1306,3988,50,48
+offsets: 10,10,72,68
+sweat2
+bounds: 282,4010,50,26
+offsets: 12,12,74,52
+sweat3
+bounds: 338,3982,64,54
+offsets: 14,12,92,78
+sweat_05
+bounds: 2360,3982,54,54
+offsets: 6,8,66,70
+
+CH0331_home_2.png
+size: 4096,4096
+filter:Linear,Linear
+scale:0.76
+01/BG_bed
+bounds: 4,116,1652,1840
+offsets: 136,120,1840,1960
+rotate:270
+01/BG_floor
+bounds: 4,1386,2472,2468
+offsets: 968,96,3666,2754
+01/BG_light_1
+bounds: 2606,4,1486,1510
+offsets: 0,374,1646,1886
+rotate:180
+01/BG_light_2
+bounds: 2922,102,1112,726
+offsets: 0,2,1244,728
+01/BG_shadow_1
+bounds: 2476,2206,1648,1260
+offsets: 0,62,1648,1322
+rotate:270
+01/BG_shadow_2
+bounds: 3268,1910,624,342
+offsets: 0,4,626,358
+01/BG_shadow_3
+bounds: 3626,3196,190,658
+offsets: 2,6,198,672
+01/BG_wall
+bounds: 2472,1138,1188,1228
+offsets: 6,562,1194,1818
+rotate:270
+01/BG_wall_2
+bounds: 1932,558,1314,932
+offsets: 312,718,1864,1656
+01/B_Hair_2
+bounds: 288,3522,176,332
+offsets: 10,12,196,356
+01/B_Hair_7
+bounds: 3384,2032,1144,708
+offsets: 2144,1952,3288,2686
+rotate:90
+01/Halo_01
+bounds: 1680,426,352,960
+offsets: 2,8,358,972
+01/Halo_02
+bounds: 3730,1922,362,948
+offsets: 2,6,368,962
+01/Halo_03
+bounds: 4,3270,290,584
+offsets: 8,8,304,604
+
